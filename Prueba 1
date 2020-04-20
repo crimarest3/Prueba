@@ -1,0 +1,11 @@
+{"type": "FeatureCollection","features": [
+{"type":"Feature","properties":{"CANTIDAD":"20","MUNICIPIO":"Aguilar de la Frontera","PROVINCIA":"Aguilar de la Frontera"},"geometry":{"type":"Point","coordinates":[-4.7793835, 37.8881751]}},
+{"type":"Feature","properties":{"CANTIDAD":"100","MUNICIPIO":"Aguilar de la Frontera","PROVINCIA":"Almería"},"geometry":{"type":"Point","coordinates":[-2.4637136, 36.834047]}},
+{"type":"Feature","properties":{"CANTIDAD":"12","MUNICIPIO":"Aguilar de la Frontera","PROVINCIA":"Antequera"},"geometry":{"type":"Point","coordinates":[-4.4259962, 36.7167456]}},
+{"type":"Feature","properties":{"CANTIDAD":"10","MUNICIPIO":"Aguilar de la Frontera","PROVINCIA":"Antequera"},"geometry":{"type":"Point","coordinates":[-4.4259962, 36.7167456]}},
+{"type":"Feature","properties":{"CANTIDAD":"18","MUNICIPIO":"Aguilar de la Frontera","PROVINCIA":"Badajoz"},"geometry":{"type":"Point","coordinates":[-6.0679194, 39.4937392]}},
+{"type":"Feature","properties":{"CANTIDAD":"26","MUNICIPIO":"Aguilar de la Frontera","PROVINCIA":"Belalcázar"},"geometry":{"type":"Point","coordinates":[-4.7793835, 37.8881751]}},
+{"type":"Feature","properties":{"CANTIDAD":"4","MUNICIPIO":"Aguilar de la Frontera","PROVINCIA":"Belalcázar"},"geometry":{"type":"Point","coordinates":[-4.7793835, 37.8881751]}},
+{"type":"Feature","properties":{"CANTIDAD":"5","MUNICIPIO":"Aguilar de la Frontera","PROVINCIA":"Bujalance"},"geometry":{"type":"Point","coordinates":[-4.7793835, 37.8881751]}},
+{"type":"Feature","properties":{"CANTIDAD":"2","MUNICIPIO":"Aguilar de la Frontera","PROVINCIA":"Cabra"},"geometry":{"type":"Point","coordinates":[-4.7793835, 37.8881751]}}
+], "title": "Prueba TOTAL"}
